@@ -33,5 +33,5 @@ $ git push --force
 ```
 
 ## References
-A nice [Git Cheat Sheet](https://github.com/hbons/git-cheat-sheet) from hbons, see it! :D
+A nice [Git Cheat Sheet](https://github.com/hbons/git-cheat-sheet) from hbons, see it! :D  
 More info at [Git](https://git-scm.com/) website or [Git documentation](https://git-scm.com/doc).
